@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666147731145",
+    "project_id": "niftymoney-79f1e",
+    "storage_bucket": "niftymoney-79f1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666147731145:android:5a86d575294f6f8e94bf18",
+        "android_client_info": {
+          "package_name": "com.example.niftymoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666147731145-njng0u0vuq54uafkffocq3bmqohh9n03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.niftymoney",
+            "certificate_hash": "372ce4059bb985c9cb0579c1ac4275ad57f634cc"
+          }
+        },
+        {
+          "client_id": "666147731145-l9ge2m648o7rkk303ieidl6n4iskfsae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_x00kRWDdT2tD3ilwN_YS7Bey7GjxIgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666147731145-l9ge2m648o7rkk303ieidl6n4iskfsae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
