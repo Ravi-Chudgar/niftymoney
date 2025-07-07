@@ -31,9 +31,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home:User()
+      // home:User()
       
-      // home: LoginPage(),
+      home: LoginPage(),
       // home: const LoginPage()
     );
   }
